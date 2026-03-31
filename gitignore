@@ -1,0 +1,26 @@
+# ── QuestaSim / ModelSim ─────────────────────────────────────
+work/
+transcript
+vsim.wlf
+*.wlf
+modelsim.ini
+
+# ── Vivado project files ──────────────────────────────────────
+*.xpr
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.log
+*.jou
+*.str
+*.dcp
+*.bit
+*.ltx
+NA/
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
