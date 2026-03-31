@@ -2,8 +2,6 @@
 
 A complete Verilog RTL model of the **Xilinx Spartan-6 DSP48A1** arithmetic slice, verified in QuestaSim with directed test patterns and implemented in Vivado targeting the `xc7a200tffg1156-3` FPGA.
 
-Built as **Project 1** for the Digital IC Design course at the Arab Academy for Science, Technology and Maritime Transport (AASTMT).
-
 ---
 
 ## Table of Contents
