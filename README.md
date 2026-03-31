@@ -216,4 +216,3 @@ All timing constraints met. No critical warnings during elaboration, synthesis, 
 
 **Salaheldeen Abdelmoneim** — [github.com/Sal03-git](https://github.com/Sal03-git)
 
-Arab Academy for Science, Technology and Maritime Transport — Digital IC Design Course, 2025
